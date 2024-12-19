@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
     <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
-        <dependency display_value="System Import Sets" source="com.glide.system_import_set">26fa00e0d9313110cedf7dffddb48f58</dependency>
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">49f001f38d020210d0ad51af4186635c</dependency>
         <min_version>1.0.0</min_version>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-13 13:18:50</sys_created_on>
